@@ -1,7 +1,7 @@
 
 ---
 
-# Task Tracker Application 🚧  
+# Task Tracker Application
 **Status:** Under Construction 🚀  
 
 ## Overview  
