@@ -19,7 +19,6 @@ public class TaskListController {
     public TaskListController(TaskListService taskListService, TaskListMapper taskListMapper) {
         this.taskListService = taskListService;
         this.taskListMapper = taskListMapper;
-        return TaskController;
     }
 
     @GetMapping
@@ -49,6 +48,5 @@ public class TaskListController {
     @DeleteMapping(path = "/{task_list_id}")
     public void deleteTaskList(@PathVariable("task_list_id") UUID taskListId){
         taskListService.deleteTaskList(taskListId);
-        return taskListId;
     }
 }
