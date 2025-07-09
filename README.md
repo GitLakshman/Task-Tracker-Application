@@ -1,6 +1,6 @@
 # Task Tracker Application
 
-**Status:** Application is in Under Construction.
+**Status:** Application is in Under Construction 🚀.
 
 ## Overview
 
