@@ -1,8 +1,7 @@
-
 ---
 
 # Task Tracker Application
-**Status:** Application is on Website. in my render => "tasktrackeronrender.com"
+**Status:** Under Constructiom 🚀
 
 ## Overview  
 This repository hosts the code for a **Task Tracker Application**, designed to help users manage their daily tasks efficiently. The project is currently in development, and new features are being actively added.  
@@ -22,4 +21,4 @@ This repository hosts the code for a **Task Tracker Application**, designed to h
 ## Note  
 This project is still a work in progress. Please stay tuned for updates, and feel free to share any suggestions or feedback!  
 
---- 
+---
