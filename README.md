@@ -1,4 +1,3 @@
----
 
 # Task Tracker Application
 **Status:** Under Construction
@@ -21,4 +20,3 @@ This repository hosts the code for a **Task Tracker Application**, designed to h
 ## Note  
 This project is still a work in progress. Please stay tuned for updates, and feel free to share any suggestions or feedback!  
 
----
