@@ -1,6 +1,6 @@
 # Task Tracker Application
 
-**Status:** Application is on Website. in my render => "tasktrackeronrender.com"
+**Status:** Application is in Under Construction.
 
 ## Overview
 
