@@ -2,7 +2,7 @@
 ---
 
 # Task Tracker Application
-**Status:** In use or Deployed to the server.  
+**Status:** Application is on Website. 
 
 ## Overview  
 This repository hosts the code for a **Task Tracker Application**, designed to help users manage their daily tasks efficiently. The project is currently in development, and new features are being actively added.  
