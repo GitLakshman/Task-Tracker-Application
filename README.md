@@ -1,10 +1,10 @@
 ---
 
 # Task Tracker Application
-**Status:** Under Constructiom
+**Status:** Under Construction
 
 ## Overview  
-This repository hosts the code for a **Task Tracker Application**, designed to help users manage their daily tasks efficiently. The project is currently in development, and new features are being actively added.  
+This repository hosts the code for a **Task Tracker Application**, designed to help users manage their daily tasks efficiently. The project is currently in development, and new features are being actively added.
 
 ## Current Progress  
 - Backend setup using **Java Spring Boot** is underway.  
